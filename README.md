@@ -9,7 +9,11 @@ Need to find the right visualization technique
 + https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727
 + https://datavizcatalogue.com
 
-In Stringham (2019), Brown's work on Dictionary is described and triangulated:
+Need to 
++ create/obtain databases on all the available signs in each corpus, JSB-Dict as root
++ JSB root: https://docs.google.com/spreadsheets/d/16CAPZ98lK00Z3Kz6DiiPxuuhsfFczi94Cc4Fnh9EySc/edit?usp=sharing
+
+In Stringham (2019), Brown's work on *Dictionary* is described and triangulated:
 
 > Of course, without other extant contemporary documents and triangulation, it is diffcult to determine
 > how accurate Brown was in describing 1860s sign language. Including Brown’s 1856 *Vocabulary*, there are few
